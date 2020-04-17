@@ -3,7 +3,7 @@ In an at-home learning environment, many students will gravitate to video lesson
 
 The app you build in this tutorial will enable instructors to provide additional notes to students who are using video and audio tools as their primary way to learn. Teachers can also easily provide written instructions for students who for whatever reason cannot play a video. 
 
-The code and related files for this tutorial are located in the accompanying <a href="https://github.com/Call-for-Code/cfc-covid-19-video-transcriber" target="\_blank">GitHub repo</a>.
+The code and related files for this tutorial are located in the accompanying <a href="https://github.com/InnoOkeke/cfc-covid-19-video-transcriber" target="\_blank">GitHub repo</a>.
 
 ## Learning objectives
 In this tutorial, you'll learn how to:
